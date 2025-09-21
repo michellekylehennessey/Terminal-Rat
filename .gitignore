@@ -1,1 +1,15 @@
 /target
+**/*.rs.bk
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Binaries
+*.exe
+*.dll
+*.pdb
